@@ -24,7 +24,7 @@
     "sass": "^1.100.0",
     "sass-loader": "^17.0.0",
     "style-loader": "^4.0.0",
-    "ts-loader": "^9.5.7",
+    "ts-loader": "^9.6.0",
     "typescript": "^6.0.3",
     "vitest": "^4.1.8",
     "webpack": "^5.107.2",
